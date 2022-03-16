@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zilvinas-Zitkauskas/react_pages_test.git/static/css/main.fcbe3dd6.css",
+    "main.js": "/Zilvinas-Zitkauskas/react_pages_test.git/static/js/main.269b2960.js",
+    "index.html": "/Zilvinas-Zitkauskas/react_pages_test.git/index.html",
+    "main.fcbe3dd6.css.map": "/Zilvinas-Zitkauskas/react_pages_test.git/static/css/main.fcbe3dd6.css.map",
+    "main.269b2960.js.map": "/Zilvinas-Zitkauskas/react_pages_test.git/static/js/main.269b2960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbe3dd6.css",
+    "static/js/main.269b2960.js"
+  ]
+}
