@@ -1,0 +1,21 @@
+.hero.is-primary2 {
+    background-color: #c4632b;
+    color: #fff;
+}
+
+.tag:not(body).is-primary2 {
+    background-color: #c4632b;
+    color: #fff;
+}
+
+.button.is-primary.is-outlined2 {
+    background-color: transparent;
+    border-color: #c4632b;
+    color: #c4632b;
+}
+
+.button.is-primary2 {
+    background-color: #c4632b;
+    border-color: transparent;
+    color: #fff;
+}
